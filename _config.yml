@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+
+baseurl: "/MNIST-playground"
+url: "https://vandana-iyer.github.io/"
